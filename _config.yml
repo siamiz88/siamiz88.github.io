@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title:HyeongYeop Kang
+title: HyeongYeop Kang
 
 # Short description of your site
 description: des?
@@ -57,13 +57,11 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
-  xing: yourname
-  stackoverflow: yourlink
+  name: HyeongYeop Kang
+  email: "siamiz88@gmail.com"
+  github: siamiz88
+  linkedin: hyeongyeop-kang-a6089510b/
+
 
 
 # Select which links to show in the footer
@@ -91,10 +89,10 @@ url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kratzertblog"
+disqus: "siamizblog"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+google_analytics: "UA-148879165-1"
 
 # Google Tag Manager ID
 #gtm: ""
