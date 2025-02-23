@@ -56,7 +56,7 @@ avatar: "/img/profile.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: HyeongYeop Kang
-  email: "siamiz@khu.ac.kr"
+  email: "siamiz_hkang@korea.ac.kr"
   github: siamiz88
   linkedin: hyeongyeop-kang-a6089510b/
 
@@ -90,7 +90,7 @@ url-pretty: "https://siamiz88.github.io"  # eg. "deanattali.com/beautiful-jekyll
 disqus: "siamizblog"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-148879165-1"
+google_analytics: "G-S5Y7R38LQS"
 
 # Google Tag Manager ID
 #gtm: ""
