@@ -23,7 +23,7 @@ description: Personal Info
 
 # List of links in the navigation bar
 navbar-links:
-  Curriculum Vitae: "https://1drv.ms/b/c/d4548237bec7b51f/EdV3jEVwdkNItdlEa8mfEbYBAgLHQfHk6lMXca1IMVnU-A?e=BTNRQg"
+  # Curriculum Vitae: "https://1drv.ms/b/c/d4548237bec7b51f/EdV3jEVwdkNItdlEa8mfEbYBAgLHQfHk6lMXca1IMVnU-A?e=BTNRQg"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
